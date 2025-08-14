@@ -2,6 +2,13 @@
 
 This simple application provides essential tools to help users create and maintain strong passwords, check for potential security risks, and assess their overall digital security posture.
 
+
+## 📸 Live Preview
+
+<p align="center">
+  <img src="public/preview.png" alt="SecureKit App Preview" width="600"/>
+</p>
+
 ## Features
 
 ### 🔐 Password Generator
